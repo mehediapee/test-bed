@@ -69,6 +69,25 @@ h2{
     background-color:lightblue;
     text-align: center;
 }
+.finishing-sec{
+    background-image: url(images/Group_33094_1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 300px;
+    padding: 50px;
+    
+}
+.finishing-item{
+    width: 45%;
+    color: white;
+}
+.finishing-item h3{
+    font-size: 30px;
+}
+#link-finish{
+    padding-top: 40px;
+    margin-left: 20px;
+}
 footer p{
     text-align: center;
 }
